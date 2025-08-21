@@ -1,0 +1,21 @@
+[
+    {
+        "id": 1,
+        "name": "پیتزا",
+        "description": "",
+        "price": 380,
+        "average_rating": 4.5
+    },
+    {
+        "id": 2,
+        "name": "همبرگر",
+        "description": null,
+        "price": "250"
+    },
+    {
+        "id": 3,
+        "name": "ساندویچ",
+        "description": null,
+        "price": "190"
+    }
+]

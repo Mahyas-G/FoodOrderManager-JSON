@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "email": "MahyasGolparian@gmail.com",
+        "password": "$2y$12$uCmZ2LnkbTQEw5gz4yotZu1uJsb2RG2ke1x1MhAnvuvAszjF3lD6S",
+        "role": "admin"
+    },
+    {
+        "id": 2,
+        "email": "user@gmail.com",
+        "password": "$2y$12$rNkrd2Tq2baO4x6ObYqjO.\/1jqvgkngvFjHpvOkm7lexs9jgVuL\/K",
+        "role": "user"
+    }
+]
